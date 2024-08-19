@@ -12,6 +12,7 @@ Easily connect to Iranian bank gateways without getting involved with their cont
         <li>Mellat (behpardakht)</li>
 	<li>Efarda (Ertebat Farda - efarda.ir)</li>
 	<li>Parsian</li>
+ 	<li>Pasargad</li>
   </ul>
 <br/>
 <b>
